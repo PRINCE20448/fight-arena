@@ -1,0 +1,19 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gmQAA/+/v7p+dAPD/nv/k/p8A8O/5v9Gemf//6fmO2JSZiJ/p+U7dlJkIn+n5Tt2UmQj/6fmO2JSZiPDv+b/Rnpn/8P+e/+T+nwAA/+7v7p+dAADw///+4JkAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "HOLOU"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDBjMDAxMDAwMDMwMDAwMDBmZmZmMDAwMDAwZmZlZWVlZmYwMGYwZWZlZWVlZmUwZmZmZmZlNGVlZmZmZmZmNGY0NGVlZmZmZmZmNGY0NGU0ZmVmZjRmNGU0NDQ0ZTRmNDRmZjQ0ZmY0NGZmNGVmZDRkZGRkNGRmZWYwZGViZGRiZWQwZmYwZWY0NDQ0ZmUwZjRlYmYxMTExZmJlNGQ0MWYxMTExZjE0ZDQ0NmY2NjY2ZjY0NDAwZjBmZmZmMGYwMDAwZjAwZmYwMGYwMDAwMDAwMDAwMDAwMDAwZjBmZmZmMGYwMGYwZmZlZWVlZmYwZmZmZWZlZWVlZmVmZmZmZmZlNGVlZmZmZmZmNGY0NGVlZmZmZmZmNGY0NGU0ZmVmZjRmNGU0NDQ0ZTRmNDRmZjQ0ZmY0NGZmNGVmZDRkZGRkNGRmZWYwZGViZGRiZTRlZmZmZWY0NDQ0ZGRlNDRlYmYxMWUxZGQwZTAwNmY2NmY2ZWUwMDAwZmZmZmZmMGYwMDAwZmYwZjAwMDAwMDAwMDAwMDAwMDAwMDAwZjBmZmZmMGYwMGYwZmZlZWVlZmYwZmZmZWZlZWVlZmVmZmZmZmZlNGVlZmZmZmZmNGY0NGVlZmZmZmZmNGY0NGU0ZmVmZjRmNGU0NDQ0ZTRmNDRmZjQ0ZmY0NGZmNGVmZDRkZGRkNGRmZWZlNGViZGRiZWQwZjRlZGQ0NDQ0ZmVmZmUwZGQxZTExZmJlNDAwZWU2ZjY2ZjYwMDAwZjBmZmZmZmYwMDAwMDAwMGYwZmYwMA==",
+        "displayName": "HOLU"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
